@@ -1,0 +1,26 @@
+[2026-04-14 15:18:18][SYSTEM] Worker Web UI started at http://127.0.0.1:9101
+[2026-04-14 15:18:18][SYSTEM] [CONNECT] 127.0.0.1:9000
+[2026-04-14 15:18:20][SYSTEM] [CONNECT ERROR] [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+[2026-04-14 15:18:20][SYSTEM] [RECONNECT] after 5 sec
+[2026-04-14 15:18:25][SYSTEM] [CONNECT] 127.0.0.1:9000
+[2026-04-14 15:18:27][SYSTEM] [CONNECT ERROR] [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+[2026-04-14 15:18:27][SYSTEM] [RECONNECT] after 5 sec
+[2026-04-14 15:18:32][SYSTEM] [CONNECT] 127.0.0.1:9000
+[2026-04-14 15:18:34][SYSTEM] [CONNECT ERROR] [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+[2026-04-14 15:18:34][SYSTEM] [RECONNECT] after 5 sec
+[2026-04-14 15:18:39][SYSTEM] [CONNECT] 127.0.0.1:9000
+[2026-04-14 15:18:41][SYSTEM] [CONNECT ERROR] [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+[2026-04-14 15:18:41][SYSTEM] [RECONNECT] after 5 sec
+[2026-04-14 15:18:46][SYSTEM] [CONNECT] 127.0.0.1:9000
+[2026-04-14 15:18:49][SYSTEM] [CONNECT ERROR] [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+[2026-04-14 15:18:49][SYSTEM] [RECONNECT] after 5 sec
+[2026-04-14 15:18:54][SYSTEM] [CONNECT] 127.0.0.1:9000
+[2026-04-14 15:18:56][SYSTEM] [CONNECT ERROR] [WinError 10061] 無法連線，因為目標電腦拒絕連線。
+[2026-04-14 15:18:56][SYSTEM] [RECONNECT] after 5 sec
+[2026-04-14 15:19:01][SYSTEM] [CONNECT] 127.0.0.1:9000
+[2026-04-14 15:19:01][SYSTEM] [CONNECTED] dispatcher connected
+[2026-04-14 15:19:01][WORKER] [SEND] {"status": "idle", "data": {"worker_id": "worker-84083696", "is_vid": [true], "max_parallel_jobs": 2, "running_jobs": 0, "running_job_ids": []}}
+[2026-04-14 15:19:01][WORKER] [RECV] {"status": "success", "data": {}}
+[2026-04-14 15:19:11][WORKER] [SEND] {"status": "heartbeat", "data": {"worker_id": "worker-84083696", "is_vid": [true], "max_parallel_jobs": 2, "running_jobs": 0, "running_job_ids": []}}
+[2026-04-14 15:19:11][WORKER] [RECV] {"status": "success", "data": {}}
+[2026-04-14 15:19:12][SYSTEM] [EXIT] KeyboardInterrupt

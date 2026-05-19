@@ -1,0 +1,27 @@
+[2026-04-15 12:01:33][DISPATCHER] [DISPATCHER] Listening at 0.0.0.0:9000
+[2026-04-15 12:01:33][DISPATCHER] Traceback (most recent call last):
+[2026-04-15 12:01:33][DISPATCHER]   File "importlib\metadata\__init__.py", line 407, in from_name
+[2026-04-15 12:01:33][DISPATCHER] StopIteration
+[2026-04-15 12:01:33][DISPATCHER] During handling of the above exception, another exception occurred:
+[2026-04-15 12:01:33][DISPATCHER] Traceback (most recent call last):
+[2026-04-15 12:01:33][DISPATCHER]   File "main.py", line 708, in <module>
+[2026-04-15 12:01:33][DISPATCHER]     start_server()
+[2026-04-15 12:01:33][DISPATCHER]     ~~~~~~~~~~~~^^
+[2026-04-15 12:01:33][DISPATCHER]   File "main.py", line 666, in start_server
+[2026-04-15 12:01:33][DISPATCHER]     start_dashboard_server(
+[2026-04-15 12:01:33][DISPATCHER]     ~~~~~~~~~~~~~~~~~~~~~~^
+[2026-04-15 12:01:33][DISPATCHER]         dispatcher_ui,
+[2026-04-15 12:01:33][DISPATCHER]         ^^^^^^^^^^^^^^
+[2026-04-15 12:01:33][DISPATCHER]     ...<2 lines>...
+[2026-04-15 12:01:33][DISPATCHER]         port=9100,
+[2026-04-15 12:01:33][DISPATCHER]         ^^^^^^^^^^
+[2026-04-15 12:01:33][DISPATCHER]     )
+[2026-04-15 12:01:33][DISPATCHER]     ^
+[2026-04-15 12:01:33][DISPATCHER]   File "web_ui.py", line 290, in start_dashboard_server
+[2026-04-15 12:01:33][DISPATCHER]     server = make_server(host, port, app)
+[2026-04-15 12:01:33][DISPATCHER]   File "werkzeug\serving.py", line 947, in make_server
+[2026-04-15 12:01:33][DISPATCHER]   File "werkzeug\serving.py", line 813, in __init__
+[2026-04-15 12:01:33][DISPATCHER]   File "importlib\metadata\__init__.py", line 987, in version
+[2026-04-15 12:01:33][DISPATCHER]   File "importlib\metadata\__init__.py", line 960, in distribution
+[2026-04-15 12:01:33][DISPATCHER]   File "importlib\metadata\__init__.py", line 409, in from_name
+[2026-04-15 12:01:33][DISPATCHER] importlib.metadata.PackageNotFoundError: No package metadata was found for werkzeug

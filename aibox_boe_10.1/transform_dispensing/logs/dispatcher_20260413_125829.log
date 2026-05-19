@@ -1,0 +1,12 @@
+[2026-04-13 12:58:29][DISPATCHER] [DISPATCHER] Listening at 0.0.0.0:9000
+[2026-04-13 12:58:29][DISPATCHER] Traceback (most recent call last):
+[2026-04-13 12:58:29][DISPATCHER]   File "C:\Users\user\Desktop\dispensing\main.py", line 706, in <module>
+[2026-04-13 12:58:29][DISPATCHER]     start_server()
+[2026-04-13 12:58:29][DISPATCHER]     ~~~~~~~~~~~~^^
+[2026-04-13 12:58:29][DISPATCHER]   File "C:\Users\user\Desktop\dispensing\main.py", line 666, in start_server
+[2026-04-13 12:58:29][DISPATCHER]     dashboard_server = start_dashboard_server(
+[2026-04-13 12:58:29][DISPATCHER]         dispatcher_ui,
+[2026-04-13 12:58:29][DISPATCHER]         host="0.0.0.0",
+[2026-04-13 12:58:29][DISPATCHER]         port=9100,
+[2026-04-13 12:58:29][DISPATCHER]     )
+[2026-04-13 12:58:29][DISPATCHER] TypeError: start_dashboard_server() missing 1 required positional argument: 'log_manager'

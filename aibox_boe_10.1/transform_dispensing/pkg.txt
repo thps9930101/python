@@ -1,0 +1,6 @@
+pyinstaller ^
+--distpath C:\Users\USER\Desktop\dispensing_pkg ^
+--onedir ^
+--hidden-import=EmailSender ^
+--hidden-import=config ^
+C:\Users\USER\Desktop\dispensing\main.py

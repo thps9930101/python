@@ -1,0 +1,79 @@
+[2026-04-13 12:59:06][DISPATCHER] [DISPATCHER] Listening at 0.0.0.0:9000
+[2026-04-13 12:59:06][SYSTEM] Dispatcher Web UI started at http://127.0.0.1:9100
+[2026-04-13 12:59:11][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 12:59:11][DISPATCHER] clients=0 pending_jobs=0 pending_reports=0
+[2026-04-13 12:59:11][DISPATCHER] =======================================
+[2026-04-13 12:59:16][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 12:59:16][DISPATCHER] clients=0 pending_jobs=0 pending_reports=0
+[2026-04-13 12:59:16][DISPATCHER] =======================================
+[2026-04-13 12:59:21][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 12:59:21][DISPATCHER] clients=0 pending_jobs=0 pending_reports=0
+[2026-04-13 12:59:21][DISPATCHER] =======================================
+[2026-04-13 12:59:26][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 12:59:26][DISPATCHER] clients=0 pending_jobs=0 pending_reports=0
+[2026-04-13 12:59:26][DISPATCHER] =======================================
+[2026-04-13 12:59:31][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 12:59:31][DISPATCHER] clients=0 pending_jobs=0 pending_reports=0
+[2026-04-13 12:59:31][DISPATCHER] =======================================
+[2026-04-13 12:59:35][DISPATCHER] [Connected] #1 127.0.0.1, Now: 1 clients
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'GET / HTTP/1.1'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'Host: 127.0.0.1:9000'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'Connection: keep-alive'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'sec-ch-ua: "Chromium";v="146", "Not-A.Brand";v="24", "Google Chrome";v="146"'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'sec-ch-ua-mobile: ?0'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'sec-ch-ua-platform: "Windows"'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'Upgrade-Insecure-Requests: 1'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'Sec-Fetch-Site: none'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'Sec-Fetch-Mode: navigate'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'Sec-Fetch-User: ?1'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'Sec-Fetch-Dest: document'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'Accept-Encoding: gzip, deflate, br, zstd'
+[2026-04-13 12:59:35][DISPATCHER] [JSON ERROR] #1 Expecting value: line 1 column 1 (char 0) raw=b'Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,ja;q=0.6'
+[2026-04-13 12:59:35][DISPATCHER] [Connected] #2 127.0.0.1, Now: 2 clients
+[2026-04-13 12:59:36][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 12:59:36][DISPATCHER] clients=2 pending_jobs=0 pending_reports=0
+[2026-04-13 12:59:36][DISPATCHER] {'client_id': 1, 'worker_id': None, 'ip': '127.0.0.1', 'is_vid': False, 'status': 'idle', 'max_parallel_jobs': 1, 'running_jobs': [], 'last_seen_ago_sec': 0.7}
+[2026-04-13 12:59:36][DISPATCHER] {'client_id': 2, 'worker_id': None, 'ip': '127.0.0.1', 'is_vid': False, 'status': 'idle', 'max_parallel_jobs': 1, 'running_jobs': [], 'last_seen_ago_sec': 0.7}
+[2026-04-13 12:59:36][DISPATCHER] =======================================
+[2026-04-13 12:59:41][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 12:59:41][DISPATCHER] clients=2 pending_jobs=0 pending_reports=0
+[2026-04-13 12:59:41][DISPATCHER] {'client_id': 1, 'worker_id': None, 'ip': '127.0.0.1', 'is_vid': False, 'status': 'idle', 'max_parallel_jobs': 1, 'running_jobs': [], 'last_seen_ago_sec': 5.7}
+[2026-04-13 12:59:41][DISPATCHER] {'client_id': 2, 'worker_id': None, 'ip': '127.0.0.1', 'is_vid': False, 'status': 'idle', 'max_parallel_jobs': 1, 'running_jobs': [], 'last_seen_ago_sec': 5.7}
+[2026-04-13 12:59:41][DISPATCHER] =======================================
+[2026-04-13 12:59:46][DISPATCHER] [Disconnected] #1 127.0.0.1, Now: 1 clients
+[2026-04-13 12:59:46][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 12:59:46][DISPATCHER] clients=1 pending_jobs=0 pending_reports=0
+[2026-04-13 12:59:46][DISPATCHER] {'client_id': 2, 'worker_id': None, 'ip': '127.0.0.1', 'is_vid': False, 'status': 'idle', 'max_parallel_jobs': 1, 'running_jobs': [], 'last_seen_ago_sec': 10.7}
+[2026-04-13 12:59:46][DISPATCHER] =======================================
+[2026-04-13 12:59:51][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 12:59:51][DISPATCHER] clients=1 pending_jobs=0 pending_reports=0
+[2026-04-13 12:59:51][DISPATCHER] {'client_id': 2, 'worker_id': None, 'ip': '127.0.0.1', 'is_vid': False, 'status': 'idle', 'max_parallel_jobs': 1, 'running_jobs': [], 'last_seen_ago_sec': 15.7}
+[2026-04-13 12:59:51][DISPATCHER] =======================================
+[2026-04-13 12:59:56][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 12:59:56][DISPATCHER] clients=1 pending_jobs=0 pending_reports=0
+[2026-04-13 12:59:56][DISPATCHER] {'client_id': 2, 'worker_id': None, 'ip': '127.0.0.1', 'is_vid': False, 'status': 'idle', 'max_parallel_jobs': 1, 'running_jobs': [], 'last_seen_ago_sec': 20.7}
+[2026-04-13 12:59:56][DISPATCHER] =======================================
+[2026-04-13 13:00:01][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 13:00:01][DISPATCHER] clients=1 pending_jobs=0 pending_reports=0
+[2026-04-13 13:00:01][DISPATCHER] {'client_id': 2, 'worker_id': None, 'ip': '127.0.0.1', 'is_vid': False, 'status': 'idle', 'max_parallel_jobs': 1, 'running_jobs': [], 'last_seen_ago_sec': 25.7}
+[2026-04-13 13:00:01][DISPATCHER] =======================================
+[2026-04-13 13:00:06][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 13:00:06][DISPATCHER] clients=1 pending_jobs=0 pending_reports=0
+[2026-04-13 13:00:06][DISPATCHER] {'client_id': 2, 'worker_id': None, 'ip': '127.0.0.1', 'is_vid': False, 'status': 'idle', 'max_parallel_jobs': 1, 'running_jobs': [], 'last_seen_ago_sec': 30.7}
+[2026-04-13 13:00:06][DISPATCHER] =======================================
+[2026-04-13 13:00:11][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 13:00:11][DISPATCHER] clients=1 pending_jobs=0 pending_reports=0
+[2026-04-13 13:00:11][DISPATCHER] {'client_id': 2, 'worker_id': None, 'ip': '127.0.0.1', 'is_vid': False, 'status': 'idle', 'max_parallel_jobs': 1, 'running_jobs': [], 'last_seen_ago_sec': 35.7}
+[2026-04-13 13:00:11][DISPATCHER] =======================================
+[2026-04-13 13:00:16][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 13:00:16][DISPATCHER] clients=1 pending_jobs=0 pending_reports=0
+[2026-04-13 13:00:16][DISPATCHER] {'client_id': 2, 'worker_id': None, 'ip': '127.0.0.1', 'is_vid': False, 'status': 'idle', 'max_parallel_jobs': 1, 'running_jobs': [], 'last_seen_ago_sec': 40.7}
+[2026-04-13 13:00:16][DISPATCHER] =======================================
+[2026-04-13 13:00:21][DISPATCHER] ========== DISPATCHER STATUS ==========
+[2026-04-13 13:00:21][DISPATCHER] clients=1 pending_jobs=0 pending_reports=0
+[2026-04-13 13:00:21][DISPATCHER] {'client_id': 2, 'worker_id': None, 'ip': '127.0.0.1', 'is_vid': False, 'status': 'idle', 'max_parallel_jobs': 1, 'running_jobs': [], 'last_seen_ago_sec': 45.7}
+[2026-04-13 13:00:21][DISPATCHER] =======================================
+[2026-04-13 13:00:24][DISPATCHER] [DISPATCHER] shutdown requested
+[2026-04-13 13:00:24][DISPATCHER] [DISPATCHER] stopped[Client Error] #2 127.0.0.1 error=[WinError 10053] 連線已被您主機上的軟體中止。
